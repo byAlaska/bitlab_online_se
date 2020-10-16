@@ -1,0 +1,29 @@
+package bitlab.askar.Module2.lesson8;
+
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.Scanner;
+
+public class Server {
+
+    public static void main(String[] args){
+
+        Scanner in = new Scanner(System.in);
+
+        try {
+
+            ServerSocket server = new ServerSocket(2020);
+            int id = 1;
+            while (true){
+                Socket socket = server.accept();
+                ClientHandler clientHandler = new ClientHandler(socket,id);
+                clientHandler.start();
+                id++;
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+
+    }
+}
