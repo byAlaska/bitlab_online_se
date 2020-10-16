@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f59f1e-8467-4c5a-a13f-2522f5b1e47b" name="Default Changelist" comment="" />
+    <list default="true" id="64f59f1e-8467-4c5a-a13f-2522f5b1e47b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson6/prac/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -114,10 +126,10 @@
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Cars.java" />
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Car.java" />
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/DBManager.java" />
-        <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java" />
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson6/prac/MainFrame.java" />
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson6/prac/MyThread.java" />
         <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson6/prac/Main.java" />
+        <option value="$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java" />
       </list>
     </option>
   </component>
@@ -183,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602855472072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602855521160" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -319,15 +331,16 @@
       <workItem from="1602680340898" duration="342000" />
       <workItem from="1602680828386" duration="2713000" />
       <workItem from="1602759738204" duration="11000" />
-      <workItem from="1602761892966" duration="4160000" />
+      <workItem from="1602761892966" duration="4359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74300000" />
+    <option name="totallyTimeSpent" value="74499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3118741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -683,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -754,8 +760,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson6/prac/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/lesson9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
